@@ -1,0 +1,9 @@
+esda==2.7.0
+geopandas==1.1.2
+libpysal==4.13.0
+matplotlib==3.10.8
+mgwr==2.2.1
+numpy==1.24.4
+pandas==3.0.1
+scipy==1.17.1
+seaborn==0.13.2
